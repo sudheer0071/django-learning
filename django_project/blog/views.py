@@ -7,14 +7,14 @@ posts =[
   {
     'author':'COreyMs',
     'title' : 'Blog Post 2',
-    'contect':'second post conent',
-    'date_posed': 'Augest 27, 2018',
+    'content':'second post conent',
+    'date_posted': 'Augest 27, 2018',
   },
   {
     'author':'Jane Doe',
     'title' : 'Blog Post 2',
-    'contect':'second post conent',
-    'date_posed': 'Augest 27, 2018',
+    'content':'second post conent',
+    'date_posted': 'June 27, 2016',
   },
 
 ]
