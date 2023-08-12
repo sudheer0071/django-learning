@@ -1,0 +1,1 @@
+# this si django staring
