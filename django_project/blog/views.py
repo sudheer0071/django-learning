@@ -8,7 +8,7 @@ def home(request):
     context = {
         'posts' : Post.objects.all()
     }
-    return render(request, 'blog/home.html', context,)
+    return render(request, 'blog/home.html', context)
 
 # def about(request):
 #     return HttpResponse('<h1>this is about</h1>')
