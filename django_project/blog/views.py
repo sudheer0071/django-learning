@@ -1,8 +1,14 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from .models import Post
+# from .models import Post
  
 # Create your views here
+
+posts  = [
+    {
+        
+    }
+]
 
 def home(request):
     context={
